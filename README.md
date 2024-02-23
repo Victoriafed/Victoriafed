@@ -13,5 +13,5 @@
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
 
-
+[![codewars](https://www.codewars.com/users/Victoriafed/badges/small)](https://www.codewars.com/users/Victoriafed) 
 </div>
